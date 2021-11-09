@@ -2,10 +2,10 @@
 
 Server Folder
 
-1. Pest and open server direactory by terminal or cmd
-2. install all depndency
+1. Paste and open server directory by terminal or cmd
+2. Install all dependency
 
-### `npm nodemon server.js`
+### ‘npm nodemon server.js`
 
 Runs the app in the development mode.\
 Open [http://localhost:3001/people/1](http://localhost:3001/people/1) to view it in the browser.
@@ -14,8 +14,8 @@ Open [http://localhost:3001/people/1](http://localhost:3001/people/1) to view it
 
 Client Folder
 
-1. Pest and open client direactory by terminal or cmd
-2. install npm
+1. Paste and open client directory by terminal or cmd
+2. Install npm
 
 ### `npm start`
 
@@ -24,4 +24,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload
 
-in page there is select drop down you can check api data on change
+On page, there is select drop down you can check api data on change of value.
+
